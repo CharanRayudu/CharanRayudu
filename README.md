@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**CharanRayudu/CharanRayudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Charan Rayudu - aka [Andr0idh4ppi3r][th3fr4cti0nb0i] 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/AndroidHappier?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/CharanRayudu&screen_name=AndroidHappier)
+
+## I'm a Student, Learner, Security Researcher, and Tech Geek!!
+
+- 🔭 I generally look into testing up the vulnerabilities in websites.
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career
+- ⚡ Fun fact: I love to play games and make automation scripts
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AndroidHappier Spotify Playing" width="350" />](https://open.spotify.com/user/314dddzhqwj5m6ka4ad545xgv2sy)
+
+### Connect with me:
+
+[<img align="left" alt="CharanRayudu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="CharanRayudu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="CharanRayudu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharanRayudu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+---
+
+
+
+[twitter]: https://twitter.com/AndroidHappier
+[youtube]: https://www.youtube.com/channel/UCcY34N7VmR-4SbOOflGH02w
+[instagram]: https://www.instagram.com/charan._.rayudu/
+[linkedin]: https://www.linkedin.com/in/rayudusrisaicharan/

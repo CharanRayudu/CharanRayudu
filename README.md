@@ -9,7 +9,7 @@
 - 🔭 I generally look into testing up the vulnerabilities in websites.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career
-- ⚡ Fun fact: I do write automation scripts when I am outta My mind and I put it here!
+- ⚡ Fun fact: I Break Things, make Things to Break things and I put it here!
 
 ### Spotify Playing 🎧
 

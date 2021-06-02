@@ -7,6 +7,7 @@
 ## I'm a Student, Learner, Security Researcher, and Tech Geek!!
 
 - 🔭 I generally look into testing up the vulnerabilities in websites.
+- 🤷 I guess I like to stay active.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career
 - ⚡ Fun fact: I Break Things, make Things to Break things and I put it here!

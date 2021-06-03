@@ -26,7 +26,7 @@
 
 
 ---
-<img align="left" alt="CharanRayudu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CharanRayudu&show_icons=true&hide_border=true" />
+<img align="left" alt="CharanRayudu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CharanRayudu&show_icons=true&hide_border=true&theme=radical" />
 
 
 [twitter]: https://twitter.com/AndroidHappier

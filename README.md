@@ -14,9 +14,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AndroidHappier Spotify Playing" width="350" />](https://open.spotify.com/user/314dddzhqwj5m6ka4ad545xgv2sy)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314dddzhqwj5m6ka4ad545xgv2sy&cover_image=true&theme=novatorem" alt="AndroidHappier Spotify Playing" width="350" />](https://open.spotify.com/user/314dddzhqwj5m6ka4ad545xgv2sy)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=314dddzhqwj5m6ka4ad545xgv2sy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314dddzhqwj5m6ka4ad545xgv2sy&cover_image=true&theme=novatorem)]]
 
 ### Connect with me:
 

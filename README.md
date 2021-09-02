@@ -17,20 +17,40 @@
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314dddzhqwj5m6ka4ad545xgv2sy&cover_image=true&theme=novatorem" alt="AndroidHappier Spotify Playing" width="350" />](https://open.spotify.com/user/314dddzhqwj5m6ka4ad545xgv2sy)
 
 
-### Connect with me:
 
-[<img align="left" alt="CharanRayudu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CharanRayudu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CharanRayudu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharanRayudu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+    <a href="https://github.com/nirajkharel/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Charan Rayudu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CharanRayudu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/CharanRayudu/github-readme-stats"><img alt="CharanRayudu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CharanRayudu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/CharanRayudu/github-readme-stats"><img alt="Charan Rayudu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanRayudu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
+<br/>
 
----
-<img align="left" alt="CharanRayudu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CharanRayudu&show_icons=true&hide_border=true&theme=radical" />
+<a href="https://github.com/CharanRayudu/github-readme-activity-graph"><img alt="Charan Rayudu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CharanRayudu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-[twitter]: https://twitter.com/AndroidHappier
-[youtube]: https://www.youtube.com/channel/UCcY34N7VmR-4SbOOflGH02w
-[instagram]: https://www.instagram.com/charan._.rayudu/
-[linkedin]: https://www.linkedin.com/in/rayudusrisaicharan/
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/rayudusrisaicharan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/AndroidHappier"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/charan._.rayudu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/charan.rayudu/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/CharanRayudu/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=CharanRayudu&style=flat-square">
+</a>
+<a href="https://github.com/CharanRayudu?tab=followers"><img src="https://img.shields.io/github/followers/CharanRayudu?label=Followers&style=social" alt="GitHub Badge"></a>

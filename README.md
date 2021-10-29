@@ -12,6 +12,7 @@
 - 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career
 - ⚡ Fun fact: I Break Things, make Things to Break things and I put it here!
 
+
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314dddzhqwj5m6ka4ad545xgv2sy&cover_image=true&theme=novatorem" alt="AndroidHappier Spotify Playing" width="350" />](https://open.spotify.com/user/314dddzhqwj5m6ka4ad545xgv2sy)
@@ -38,6 +39,8 @@
 
 <a href="https://github.com/CharanRayudu/github-readme-activity-graph"><img alt="Charan Rayudu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CharanRayudu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+### TryHackMe Stats
+<img src="https://tryhackme-badges.s3.amazonaws.com/Andr0idh4ppi3r.png" alt="TryHackMe" width="250">
 
 ## Connect with me:
 <p align="left">

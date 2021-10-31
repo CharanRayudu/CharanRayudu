@@ -39,8 +39,6 @@
 
 <a href="https://github.com/CharanRayudu/github-readme-activity-graph"><img alt="Charan Rayudu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CharanRayudu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-### TryHackMe Stats
-<img src="https://tryhackme-badges.s3.amazonaws.com/Andr0idh4ppi3r.png" alt="TryHackMe" width="250">
 
 ## Connect with me:
 <p align="left">

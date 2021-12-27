@@ -6,17 +6,26 @@
 
 ## I'm a Student, Learner, Security Researcher, and Tech Geek!!
 
-- 🔭 I generally look into testing up the vulnerabilities in websites.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CharanRayudu/CharanRayudu/main/code.gif?raw=true" width="375" height="240" />
+
+ - 🔭 I generally look into testing up the vulnerabilities in websites. 
 - 🤷 I guess I like to stay active.
 - 🌱 I’m currently learning How to Live! 🤣
-- 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career
+- 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career. (But I learned alot which related to personal life.(Thanks to 2021))
+- 🥅 2022 Goals: I want to suite for the best opportunities and make people feel pround and happy who are with me
 - ⚡ Fun fact: I Break Things, make Things to Break things and I put it here!
+
+
 
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314dddzhqwj5m6ka4ad545xgv2sy&cover_image=true&theme=novatorem" alt="AndroidHappier Spotify Playing" width="350" />](https://open.spotify.com/user/314dddzhqwj5m6ka4ad545xgv2sy)
 
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=314dddzhqwj5m6ka4ad545xgv2sy&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=314dddzhqwj5m6ka4ad545xgv2sy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 
 <p align="center">
@@ -55,3 +64,4 @@
     <img src="https://komarev.com/ghpvc/?username=CharanRayudu&style=flat-square">
 </a>
 <a href="https://github.com/CharanRayudu?tab=followers"><img src="https://img.shields.io/github/followers/CharanRayudu?label=Followers&style=social" alt="GitHub Badge"></a>
+<!--END_SECTION:waka-->

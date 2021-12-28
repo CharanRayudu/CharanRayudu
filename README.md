@@ -12,7 +12,7 @@
 - 🤷 I guess I like to stay active.
 - 🌱 I’m currently learning How to Live! 🤣
 - 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career. (But I learned alot which related to personal life.(Thanks to 2021))
-- 🥅 2022 Goals: I want to suite for the best opportunities and make people feel pround and happy who are with me
+- 🥅 2022 Goals: I want to suite for the best opportunities and make people feel proud and happy who are with me
 - ⚡ Fun fact: I Break Things, make Things to Break things and I put it here!
 
 

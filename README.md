@@ -9,6 +9,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/CharanRayudu/CharanRayudu/main/code.gif?raw=true" width="375" height="240" />
 
 Wannabe haxor...
+Still a Lorem Ipsum Guy
 
 - ❔Checking how this thing README.md works.
 - 🔭 I generally look into testing up the vulnerabilities in websites. 

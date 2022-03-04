@@ -30,6 +30,12 @@ Still a Lorem Ipsum Guy
   </a>
 </p>
 
+<h1 align = "center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harsha199-ops&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+</h1>
 
 <p align="center">
     <a href="https://github.com/CharanRayudu/github-readme-streak-stats">

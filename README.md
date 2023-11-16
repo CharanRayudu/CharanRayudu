@@ -16,7 +16,9 @@ Still a Lorem Ipsum Guy
 - 🤷 I guess I like to stay active.
 - 🌱 I’m currently learning How to Live! 🤣
 - 🥅 2021 Goals: Learn More Stuff which will lead to a well-defined career. (But I learned alot which related to personal life.(Thanks to 2021))
-- 🥅 2022 Goals: I want to suite for the best opportunities and make people feel proud and happy who are with me
+- 🥅 2022 Goals: I want to suite for the best opportunities and make people feel proud and happy who are with me ( Donn know what I did in this year, spam!!!)
+- 🥅 2023 Goals: Hoped nothing & Happened nothing
+- 🥅 2024 Goals: I wish my life will start atleast from now on
 - ⚡ Fun fact: I Break Things, make Things to Break things and I put it here!
 
 
